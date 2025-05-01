@@ -11,21 +11,25 @@
 			<div class="col-sm-4">
 				<p>Links</p>
 				<ul class="list-unstyled">
-					<li><a href="https://github.com/ericdaat/research-lab-website">Github Repository</a></li>
-					<li><a href="">Link</a></li>
-					<li><a href="">Link</a></li>
-					<li><a href="">Link</a></li>
+					<li><a href="https://github.com/pqc-psu/pennstate-qc-lab/">Github Repository</a></li>
+
 				</ul>
 			</div>
 
 			<div class="col-sm-4">
 				<p>Contact</p>
-				<p>Some Address</p>
+				<p>EEW 303, Electrical Engineering West,
+				   State College, PA-16801.
+				</p>
 			</div>
 		</div>
 
 		<div class="row mt-3">
-			<p class="text-center">Copyright, 2019</p>
+			<p class="text-center">Copyright, <span id="year"></span></p>
+
+			<script>
+			  document.getElementById("year").textContent = new Date().getFullYear();
+			</script>
 		</div>
 	</div>
   </div>
