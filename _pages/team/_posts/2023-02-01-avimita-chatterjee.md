@@ -2,7 +2,7 @@
 layout: member
 category: student
 title: Avimita Chatterjee
-image: ac.JPG
+image: researcher.png
 role: PhD Student (Spring 2023)
 permalink: 'team/avimita-chatterjee'
 social:
