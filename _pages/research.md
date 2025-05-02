@@ -24,7 +24,7 @@ We investigate adversarial threats in modern quantum computing systems and desig
 
 ## Quantum Error Correction and Fault Tolerance
 
-Quantum systems are inherently fragile owing to the presence of environmental noise and low qubit decoherence, making ** quantum error correction** essential for reliable computation. We investigate:
+Quantum systems are inherently fragile owing to the presence of environmental noise and low qubit decoherence, making **quantum error correction** essential for reliable computation. We investigate:
 
 - Surface codes and topological error-correcting strategies
 - Low-overhead and hardware-aware QEC schemes
