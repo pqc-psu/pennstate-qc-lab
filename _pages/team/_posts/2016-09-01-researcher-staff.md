@@ -1,9 +1,9 @@
 ---
 layout: member
-category: staff
-title: Researcher Name
-image: researcher.png
-role: Lab Director
+category: Faculty
+title: Dr. Swaroop Ghosh
+image: Ghosh-Swaroop (2022_08_09 13_53_15 UTC).jpg
+role: Professor
 permalink: 'team/researcher-name'
 social:
     twitter: https://twitter.com/
