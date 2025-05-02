@@ -14,7 +14,7 @@ social:
     orcid: 
     
 education:
- - Ph.D. in CSE (2022) - The Pennsylvania State University. Thesis Title: Resilient Quantum Computing and Machine Learning
+ - Ph.D. in CSE (2022)-The Pennsylvania State University. Thesis Title-Resilient Quantum Computing and Machine Learning
 ---
 
 Works at NVIDIA.
