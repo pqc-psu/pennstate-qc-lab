@@ -2,19 +2,20 @@
 layout: member
 category: student
 title: Debarshi Kundu
-image: dk1.jpg
+image: dk2.jpg
 role: PhD Student (Fall 2022)
-permalink: '/team/debarshi-kundu'
+permalink: 'team/debarshi-kundu'
 social:
-    twitter: ""
-    linkedin: ""
-    google-scholar: ""
-    github: ""
-    website:""
-    orcid: ""
+    twitter: 
+    linkedin: 
+    google-scholar: 
+    github: 
+    website:
+    orcid: 
     
 education:
- - B.Tech. in EE (2017) - Indian Institute of Engineering Science and Technology, Shibpur
+ - B.Tech. in EE (2017) - Indian Institute of Engineering Science and Technology, Shibpur 
 ---
 
-Works in Drug Discovery and Quantum Machine Learning.
+Works in Drug Discovery, Quantum Machine Learning.
+
