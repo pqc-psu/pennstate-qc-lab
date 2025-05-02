@@ -2,7 +2,7 @@
 layout: member
 category: student
 title: Archisman Ghosh
-image: archisman.jpg
+image: researcher.png
 role: PhD Student (Fall 2023)
 permalink: 'team/archisman-ghosh'
 social:
