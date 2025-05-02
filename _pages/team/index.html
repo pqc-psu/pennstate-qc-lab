@@ -38,23 +38,17 @@ permalink: /team/
 
 <h2><a id="student"></a>Current Students</h2>
 {% assign members = site.posts | where: 'category', 'student' | sort: 'date' | reverse%}
-<div class="row">
+<div class="row row-cols-1 row-cols-md-3 g-4">
   {% for member in members %}
-  <div class="col-md-6 mt-3">
-    <div class="card team-member-card p-2">
-      <div class="d-flex">
-        <div class="me-3">
-          <a href="{{ site.baseurl }}{{ member.url }}">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.image }}"
-                 class="card-img img-thumbnail"
-                 style="max-width: 100px;" />
-          </a>
-        </div>
-        <div>
-          <h4 class="card-title">{{ member.title }}</h4>
-          <p class="card-text">{{ member.role }}</p>
-        </div>
-      </div>
+  <div class="col">
+    <div class="card team-member-card p-3 h-100">
+      <a href="{{ site.baseurl }}{{ member.url }}">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.image }}"
+             class="card-img-top img-thumbnail mb-2"
+             style="max-width: 100px;" />
+      </a>
+      <h4 class="card-title mb-1">{{ member.title }}</h4>
+      <p class="card-text mb-0">{{ member.role }}</p>
     </div>
   </div>
   {% endfor %}
