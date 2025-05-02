@@ -4,7 +4,7 @@ category: staff
 title: Dr. Swaroop Ghosh
 image: Ghosh-Swaroop (2022_08_09 13_53_15 UTC).jpg
 role: Professor
-permalink: 'pennstate-qc-lab/team/swaroop-ghosh'
+permalink: '/team/swaroop-ghosh'
 social:
     twitter: https://twitter.com/
     linkedin: https://www.linkedin.com/
