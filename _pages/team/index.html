@@ -10,7 +10,7 @@ permalink: /team/
 
 <!-- Staff -->
 
-<h2><a id="staff"></a>Staff</h2>
+<h2><a id="staff"></a>Faculty</h2>
 {% assign members = site.posts | where: 'category', 'staff' | sort: 'date' %}
 {% for member in members %}
 <div class="card team-member-card">
@@ -18,8 +18,9 @@ permalink: /team/
         <div class="col-md-2">
             <a href={{member.url}}>
                 <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.image }}"
-                    class="card-img img-responsive img-thumbnail"
-                    style="filter: grayscale(100%); max-width: 100px;"/>
+                 class="card-img img-responsive img-thumbnail"
+                 style="max-width: 100px;"/>
+
             </a>
         </div>
 
