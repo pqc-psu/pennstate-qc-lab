@@ -2,7 +2,7 @@
 layout: member
 category: student
 title: Jeremie Pope
-image: researcher.png
+image: jp (2022_08_09 13_53_15 UTC).jpg
 role: PhD Student (Fall 2021)
 permalink: 'team/jeremie-pope'
 social:
