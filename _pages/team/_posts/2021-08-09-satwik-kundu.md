@@ -2,7 +2,7 @@
 layout: member
 category: student
 title: Satwik Kundu
-image: researcher.png
+image: satwik_kundu.jpg
 role: PhD Student (Fall 2021)
 permalink: 'team/satwik-kundu'
 social:
