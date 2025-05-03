@@ -2,7 +2,7 @@
 layout: member
 category: student
 title: Suryansh Upadhayay
-image: su (2022_08_09 13_53_15 UTC).jpg
+image: Suryansh_Upadhyay.jpg
 role: PhD Student (Fall 2021)
 permalink: 'team/suryansh-upadhyay'
 social:
