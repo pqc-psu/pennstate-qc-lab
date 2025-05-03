@@ -15,7 +15,8 @@ social:
     orcid: 
     
 education:
- - 
+ - BSc in EEE (2018)-Bangladesh University of Engineering & Technology (BUET), Dhaka, Bangladesh.
+ - MSc in EE (2022)-University of Southern California, CA, USA.
 ---
 
 Works in Secure Quantum Systems.
