@@ -2,7 +2,7 @@
 layout: member
 category: student
 title: Koustubh Phalak
-image: researcher.png
+image: kp (2022_08_09 13_53_15 UTC).jpg
 role: PhD Student (Fall 2020)
 permalink: 'team/koustubh-phalak'
 social:
