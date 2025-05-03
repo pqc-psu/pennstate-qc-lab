@@ -2,7 +2,7 @@
 layout: member
 category: student
 title: Subrata Das
-image: subrata_das.jpg
+image: subrata_das.jpeg
 
 role: PhD Student (Spring 2023)
 permalink: 'team/subrata-das'
