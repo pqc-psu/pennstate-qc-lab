@@ -16,7 +16,7 @@ Our work is funded by [NSF](https://www.nsf.gov/), [DARPA](https://www.darpa.mil
 
 <p align="center">
   <img src="{{ site.baseurl }}/images/team/nsf.png" alt="Logo 1" width="120"/>
-  <img src="{{ site.baseurl }}/images/team/darpa.png" alt="Logo 2" width="120"/>
+  <img src="{{ site.baseurl }}/images/team/darpa.png" alt="Logo 2" width="90"/>
   <img src="{{ site.baseurl }}/images/team/src.png" alt="Logo 2" width="120"/>
-  <img src="{{ site.baseurl }}/images/team/intel.png" alt="Logo 2" width="120"/>
+  <img src="{{ site.baseurl }}/images/team/intel.png" alt="Logo 2" width="90"/>
 </p>
