@@ -1,7 +1,34 @@
-- date: March, 2024
+## make sure to enter new content from the top of the file
+
+- date: August, 2024
   title: 
   tags:
-  content: Avimita passes her Comprehensive Exam.
+  content: 
+  - Archisman's first paper got accepted at the 8th Attacks and Solutions in Hardware Security (ASHES) workshop at the ACM Conference on Computer and Communications Security (CCS) 2024.
+
+- date: July, 2024
+  title: 
+  tags:
+  content: 
+  - Debarshi's paper wins the <a href='https://news.engr.psu.edu/2024/ghosh-swaroop-acm-glsvlsi-paper-award.aspx'>best paper award</a> at the 26th Association for Computing Machinery Great Lakes Symposium on Very Large-Scale Integration (GLVLSI) 2024. Debarshi also received an NSF travel grant for GLVLSI 2024.
+  - Avimita and Suryansh's papers got accepted at IEEE Quantum Week 2024.
+  - Avimita, Satwik, and Koustubh's papers got accepted at GLVLSI 2024.
+
+- date: June, 2024
+  title: 
+  tags:
+  content: 
+  - Koustubh joins Rigetti as an intern.
+  - Subrata and Suryansh pass their Comprehensive Exams.
+
+- date: May, 2024
+  title: 
+  tags:
+  content: 
+  - Debarshi and Subrata join Qualcomm as interns.
+  - Avimita starts working as a Quantum research Intern at SRI-QEDC.
+  - Rupshali joins Micron as an intern.
+  - Colin joins __
 
 - date: April, 2024
   title: 
@@ -10,3 +37,8 @@
   - Satwik passes his Comprehensive Exam.
   - Avimita nominated for the Outstanding RA award (CSE) for her research endeavours.
   
+- date: March, 2024
+  title: 
+  tags:
+  content: Avimita passes her Comprehensive Exam.
+
