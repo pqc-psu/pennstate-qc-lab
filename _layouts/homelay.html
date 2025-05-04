@@ -42,13 +42,20 @@ layout: default
 
 
 <div id="newsid" class="col-sm-4 nopadding-right">
-  <h4 class="mb-4" style="font-size: 1.3rem;"><i class="fas fa-newspaper"></i> News</h4>
-  <div style="max-height: 450px; overflow-y: auto; padding: 10px 15px; border-left: 2px solid #ddd;">
+  <div class="p-3" style="border-left: 2px solid #ddd; height: 500px; overflow-y: auto;">
+    <h4 class="mb-4" style="font-size: 1.4rem;">
+      <i class="fas fa-newspaper"></i> News
+    </h4>
+
     {% for item in site.data.news %}
-    <div class="mb-4 p-3 border rounded bg-light shadow-sm">
-      <p class="mb-2 text-muted" style="font-size: 0.95rem;"><strong>{{ item.date }}</strong></p>
-      <h5 class="mb-2" style="font-size: 1.05rem; font-weight: 600;">{{ item.title }}</h5>
-      <p style="font-size: 1rem; line-height: 1.5;">{{ item.content }}</p>
+    <div class="mb-4">
+      <p class="mb-1" style="font-size: 1rem; color: #666;">
+        <strong>{{ item.date }}</strong>
+      </p>
+      <p style="font-size: 1.05rem; line-height: 1.5; margin-bottom: 0;">
+        <em>{{ item.title }}</em>
+      </p>
+      <p style="font-size: 1rem; color: #333;">{{ item.content }}</p>
     </div>
     {% endfor %}
   </div>
