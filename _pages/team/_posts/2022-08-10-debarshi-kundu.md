@@ -2,7 +2,7 @@
 layout: member
 category: student
 title: Debarshi Kundu
-image: dk_dp.jpg
+image: dk3.jpg
 role: PhD Student (Fall 2022)
 permalink: 'team/debarshi-kundu'
 social:
