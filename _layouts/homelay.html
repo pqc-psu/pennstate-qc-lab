@@ -36,6 +36,22 @@ layout: default
 	{{ content }}
 </div>
 
-<div id="newsid" class="col-sm-4 nopadding-right" >
+<!-- <div id="newsid" class="col-sm-4 nopadding-right" >
 	{% include tweets.html %}
+</div> -->
+
+
+<div id="newsid" class="col-sm-4 nopadding-right">
+  <h4>📰 News</h4>
+  <div style="max-height: 300px; overflow-y: auto; padding-right: 10px; border-left: 2px solid #eee;">
+    <ul class="list-unstyled">
+      {% for item in site.data.news %}
+        <li class="mb-3">
+          <strong>{{ item.date }}</strong><br>
+          {{ item.title }}
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
 </div>
+
