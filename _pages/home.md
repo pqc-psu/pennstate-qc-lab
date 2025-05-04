@@ -12,11 +12,12 @@ We are a group of Quantum Computing researchers (read enthusiasts)! Led by Dr. S
 
 Go through our [latest work]({{ site.baseurl }}/research/) and feel free to reach out to us [here](mailto:szg212@psu.edu)! 
 
-Our work is funded by [NSF](https://www.nsf.gov/), [DARPA](https://www.darpa.mil/), [SRC](https://www.src.org/) and gifts from [Intel](https://www.intel.com/content/www/us/en/homepage.html).
+Our work is funded by [NSF](https://www.nsf.gov/), [DARPA](https://www.darpa.mil/), [SRC](https://www.src.org/), [Penn State ICDS](https://www.icds.psu.edu/) and gifts from [Intel](https://www.intel.com/content/www/us/en/homepage.html).
 
 <p align="center">
   <img src="{{ site.baseurl }}/images/team/nsf.png" alt="Logo 1" width="120"/>
   <img src="{{ site.baseurl }}/images/team/darpa.png" alt="Logo 2" width="90"/>
-  <img src="{{ site.baseurl }}/images/team/src.png" alt="Logo 2" width="120"/>
-  <img src="{{ site.baseurl }}/images/team/intel.png" alt="Logo 2" width="90"/>
+  <img src="{{ site.baseurl }}/images/team/src.png" alt="Logo 3" width="120"/>
+  <img src="{{ site.baseurl }}/images/team/icds.png" alt="Logo 4" width="120"/>
+  <img src="{{ site.baseurl }}/images/team/intel.png" alt="Logo 5" width="90"/>
 </p>
