@@ -9,7 +9,9 @@ permalink: /research/
 # Research
 At PQC lab, we are dedicated to advancing the foundations and applications of quantum computing with a current focus on security, reliability, machine learning, and fault-tolerance. 
 
-## Security and Forensics in Quantum Systems
+<h2 style="color: red;">Ongoing works</h2>
+
+### Security and Forensics in Quantum Systems
 
 As quantum computers become more capable, so does the need for **trustworthy and tamper-resistant quantum hardware and software**. Our work focuses on:
 
@@ -20,9 +22,9 @@ As quantum computers become more capable, so does the need for **trustworthy and
 
 We investigate adversarial threats in modern quantum computing systems and design security measures for the same.
 
-## Quantum Machine Learning
+### Quantum Machine Learning
 
-## Quantum Error Correction and Fault Tolerance
+### Quantum Error Correction and Fault Tolerance
 
 Quantum systems are inherently fragile owing to the presence of environmental noise and low qubit decoherence, making **quantum error correction** essential for reliable computation. We investigate:
 
