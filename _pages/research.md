@@ -34,3 +34,6 @@ Quantum systems are inherently fragile owing to the presence of environmental no
 - Simulation frameworks to evaluate QEC performance under noise
 
 The best way to get a sense of what’s currently going on in the lab is to check out the work of individual lab members.
+
+<h2 style="color: green;">Completed works</h2>
+
